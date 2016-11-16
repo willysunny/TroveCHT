@@ -1,0 +1,2 @@
+# TroveCHT
+Trove Chinese Translation
